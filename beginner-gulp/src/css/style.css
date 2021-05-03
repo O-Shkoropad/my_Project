@@ -1,6 +1,7 @@
 body {
   margin: 0; }
 
+/*section/* */
 .section--xs {
   padding-top: 16px;
   padding-bottom: 36px;
@@ -10,13 +11,29 @@ body {
   padding-top: 16px;
   padding-bottom: 16px; }
 
-.section--ms {
+.section--m {
   padding-top: 136px;
   padding-bottom: 50px; }
 
 .section--ml {
   padding-top: 248px;
   padding-bottom: 0px; }
+
+.section--mg {
+  padding-top: 65px;
+  padding-bottom: 144px; }
+
+.section--lx {
+  padding-top: 144px;
+  padding-bottom: 145px; }
+
+.section--lg {
+  padding-top: 45px;
+  padding-bottom: 39px; }
+
+.section--ll {
+  padding-top: 75px;
+  padding-bottom: 75px; }
 
 .box h1 {
   font-family: Playfair Display;
@@ -37,12 +54,12 @@ body {
   color: #FFFFFF;
   text-align: left; }
 
+/*nav/* */
 nav ul {
   margin: 0px;
   padding: 0px;
   float: right;
-  list-style: none;
-  float: right; }
+  list-style: none; }
 
 li {
   display: inline-block;
@@ -60,6 +77,10 @@ li a {
   display: inline-flex;
   text-decoration: none; }
 
+li a:hover {
+  color: #FFFFFF;
+  text-decoration: none; }
+
 .logo {
   font-family: Gilroy;
   font-style: normal;
@@ -70,6 +91,9 @@ li a {
   color: #FF9900;
   display: inline-block;
   float: left; }
+
+.logo:hover {
+  color: #FF9900; }
 
 .menu {
   font-family: Gilroy;
@@ -90,6 +114,7 @@ menu li a {
   color: white;
   text-align: center; }
 
+/*button/* */
 .button--primary {
   font-family: Gilroy;
   font-style: normal;
@@ -101,6 +126,10 @@ menu li a {
   border: 2px solid;
   box-sizing: border-box;
   padding: 8px 12px; }
+
+.button--primary:hover {
+  text-decoration: none;
+  color: #FF9900; }
 
 .button_1 {
   font-family: Gilroy;
@@ -115,13 +144,62 @@ menu li a {
   padding: 11px 12px;
   width: 166px; }
 
+.buttonn {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFB800;
+  padding: 13px 22px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #FFFFFF; }
+
+.button_2 {
+  padding-top: 42px; }
+
+.buttonn:hover {
+  color: #FFB800;
+  text-decoration: none; }
+
+.buttonn {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFB800;
+  padding: 13px 22px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #FFFFFF; }
+
+.button_2 {
+  padding-top: 42px; }
+
+.buttonn:hover {
+  color: #FFB800;
+  text-decoration: none; }
+
+.title_1 h3 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 139.4%;
+  text-align: center;
+  letter-spacing: 9.7px;
+  text-transform: uppercase;
+  color: #FF9900; }
+
 .box {
   padding-top: 60px;
   text-align: center;
   padding-left: 220px; }
 
-.goo p {
-  display: inline-block;
+.tool p {
+  display: inline;
   float: left;
   font-family: Gilroy;
   font-style: normal;
@@ -130,7 +208,7 @@ menu li a {
   line-height: 139.4%;
   padding-left: 35px; }
 
-.foot {
+.tools {
   padding-top: 52px;
   padding-bottom: 61px;
   text-align: center;
@@ -138,11 +216,10 @@ menu li a {
   display: inline-block;
   color: #FFFFFF; }
 
-.foot ul {
-  padding-right: 50px;
+.tools ul {
   align-items: center; }
 
-.foot img li {
+.tools img li {
   background: rgba(255, 255, 255, 0.48);
   border: 0.5px solid rgba(255, 255, 255, 0.48);
   color: #FFFFFF;
@@ -162,7 +239,7 @@ menu li a {
 
 .insidee {
   position: absolute;
-  padding-top: 30px;
+  padding-top: 34px;
   padding-left: 5px;
   z-index: 4; }
 
@@ -178,20 +255,19 @@ menu li a {
   padding-left: 54px;
   z-index: 4; }
 
-.goo {
-  display: inline-block;
-  padding-top: 20px; }
+.tool {
+  display: inline-block; }
 
 .hop {
   padding-top: 20px;
   padding-left: 30px;
   z-index: 4; }
 
-.loo {
+.information {
   display: inline;
   padding-top: 20px; }
 
-.joo {
+.adress {
   padding-top: 2px;
   display: inline; }
 
@@ -220,7 +296,7 @@ menu li a {
 .oclock {
   position: absolute;
   padding-left: 25px;
-  z-index: 3; }
+  z-index: 4; }
 
 .card {
   position: absolute;
@@ -239,14 +315,7 @@ menu li a {
 
 .rectangle {
   position: absolute;
-  padding-top: 547px;
-  padding-left: 305px;
-  z-index: 4; }
-
-.ooo {
-  position: absolute;
-  padding-right: 100px;
-  z-index: 4; }
+  z-index: -2; }
 
 .digital {
   position: absolute;
@@ -263,12 +332,7 @@ menu li a {
 .bedroom {
   padding-top: 400px; }
 
-.title {
-  float: right; }
-
 .title h3 {
-  padding-top: 148px;
-  padding-right: 387px;
   font-family: Gilroy;
   font-style: normal;
   font-weight: normal;
@@ -285,9 +349,7 @@ menu li a {
   font-size: 40px;
   line-height: 139.4%;
   letter-spacing: 0.2px;
-  color: #000000;
-  padding-top: 8px;
-  padding-right: 387px; }
+  color: #000000; }
 
 .title p {
   font-family: Gilroy;
@@ -295,6 +357,162 @@ menu li a {
   font-weight: normal;
   font-size: 18px;
   line-height: 139.4%;
-  position: absolute;
   letter-spacing: 0.2px;
   color: #7C7C7C; }
+
+.section {
+  background-color: black; }
+
+.section h3 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 139.4%;
+  letter-spacing: 9.7px;
+  text-transform: uppercase;
+  color: #FF9900; }
+
+.section h1 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 139.4%;
+  letter-spacing: 0.2px;
+  color: #FFFFFF; }
+
+.title {
+  padding-left: 100px;
+  padding-top: 148px; }
+
+.flex-container {
+  display: inline-flex; }
+
+.footer {
+  background-color: black; }
+
+.footer h2 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 80px;
+  letter-spacing: 0.07em;
+  color: #FF9900; }
+
+.adress h5 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: -0.7px;
+  color: #FFFFFF; }
+
+.tools h5 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF; }
+
+.contact h5 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  padding-top: 55px; }
+
+.information {
+  text-align: center; }
+
+.section_1 {
+  background-color: #FFB800; }
+
+.contacts {
+  padding-left: 300px; }
+
+.about_us {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #FFFFFF;
+  padding-top: 50px; }
+
+.contacts h4 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 40px;
+  color: #FFFFFF;
+  text-align: left; }
+
+.contacts h3 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.005em;
+  color: #FFFFFF;
+  text-align: left; }
+
+.contacts h5 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.07em;
+  color: #FFFFFF; }
+
+.title_1 h3 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 139.4%;
+  text-align: center;
+  letter-spacing: 9.7px;
+  text-transform: uppercase;
+  color: #FF9900; }
+
+.title_1 h1 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 139.4%;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #FFFFFF; }
+
+.title_1 h5 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 0.01em;
+  color: #FFFFFF;
+  padding-top: 138px; }
+
+.title_1 cite {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.015em;
+  color: #FFFFFF; }
+
+.fas_i {
+  text-align: center; }
