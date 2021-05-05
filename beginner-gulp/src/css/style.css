@@ -13,7 +13,7 @@ body {
 
 .section--m {
   padding-top: 136px;
-  padding-bottom: 50px; }
+  padding-bottom: 350px; }
 
 .section--ml {
   padding-top: 248px;
@@ -34,6 +34,9 @@ body {
 .section--ll {
   padding-top: 75px;
   padding-bottom: 75px; }
+
+.section--lxx {
+  padding-top: 100px; }
 
 .box h1 {
   font-family: Playfair Display;
@@ -516,3 +519,79 @@ menu li a {
 
 .fas_i {
   text-align: center; }
+
+.title_3 h5 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 139.4%;
+  text-align: center;
+  letter-spacing: 9.7px;
+  text-transform: uppercase;
+  color: #FF9900; }
+
+.title_3 h1 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 139.4%;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #000000; }
+
+.title_4 h3 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 139.4%;
+  letter-spacing: 0.2px;
+  color: #000000;
+  padding-top: 166px; }
+
+.title_4 p {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 139.4%;
+  letter-spacing: 0.2px;
+  color: #000000; }
+
+.termin h3 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 139.4%;
+  letter-spacing: 0.2px;
+  color: #000000; }
+
+.termin {
+  display: inline;
+  padding-top: 31px; }
+
+.termin h4 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 139.4%;
+  letter-spacing: 0.2px;
+  color: #000000; }
+
+.picture {
+  padding-top: 150px;
+  float: right; }
+
+.flex-container {
+  display: flex;
+  padding-top: 40px; }
+
+.flex-item-left {
+  width: 50%; }
+
+.flex-item-right {
+  width: 50%; }
