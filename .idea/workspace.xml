@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41281bec-dba1-4a5a-b0d6-520b5795aaaf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/citcheen.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/rectangle 157.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/rectangle 161 (1).png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/beginner-gulp/src/css/style.css" afterPath="$PROJECT_DIR$/beginner-gulp/src/css/style.css" />
       <change beforePath="$PROJECT_DIR$/beginner-gulp/src/sass/style.sass" afterPath="$PROJECT_DIR$/beginner-gulp/src/sass/style.sass" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -34,9 +30,6 @@
                 <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
                 <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
                 <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-                <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-                <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-                <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -52,21 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="175" column="46" lean-forward="false" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="46" />
+            <state relative-caret-position="40">
+              <caret line="174" column="35" lean-forward="false" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beginner-gulp/src/sass/style.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="997">
-              <caret line="555" column="2" lean-forward="false" selection-start-line="555" selection-start-column="2" selection-end-line="555" selection-end-column="2" />
+            <state relative-caret-position="557">
+              <caret line="552" column="16" lean-forward="false" selection-start-line="552" selection-start-column="16" selection-end-line="552" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -117,8 +110,8 @@
         <option value="$PROJECT_DIR$/beginner-gulp/gulpfile.js.txt" />
         <option value="$PROJECT_DIR$/beginner-gulp/src/gulpfile.js" />
         <option value="$PROJECT_DIR$/beginner-gulp/gulpfile.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/beginner-gulp/src/sass/style.sass" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -128,7 +121,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/beginner-gulp/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-16" />
     <option name="y" value="-16" />
     <option name="width" value="3232" />
@@ -150,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +173,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -306,17 +302,19 @@
       <workItem from="1620152560684" duration="2056000" />
       <workItem from="1620154719151" duration="2045000" />
       <workItem from="1620218727586" duration="1747000" />
-      <workItem from="1620220616438" duration="1630000" />
+      <workItem from="1620220616438" duration="1780000" />
+      <workItem from="1620222852365" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145126000" />
+    <option name="totallyTimeSpent" value="145303000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3232" height="1732" extended-state="0" />
+    <frame x="-16" y="-16" width="3232" height="1732" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -373,9 +371,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -415,9 +410,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -457,9 +449,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -499,9 +488,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -541,9 +527,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -583,9 +566,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -625,9 +605,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -667,9 +644,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -726,9 +700,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -753,9 +724,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -798,9 +766,6 @@
             <marker date="1620222232413" expanded="true" signature="594:617" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9446:9619" ph="{...}" />
             <marker date="1620222232413" expanded="true" signature="9787:9790" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="9967:10010" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10288" ph="{...}" />
-            <marker date="1620222232413" expanded="true" signature="10190:10290" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -810,18 +775,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/beginner-gulp/src/sass/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="175" column="46" lean-forward="false" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="46" />
+        <state relative-caret-position="557">
+          <caret line="552" column="16" lean-forward="false" selection-start-line="552" selection-start-column="16" selection-end-line="552" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beginner-gulp/src/sass/style.sass">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="997">
-          <caret line="555" column="2" lean-forward="false" selection-start-line="555" selection-start-column="2" selection-end-line="555" selection-end-column="2" />
+        <state relative-caret-position="40">
+          <caret line="174" column="35" lean-forward="false" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
           <folding />
         </state>
       </provider>
