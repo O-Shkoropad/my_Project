@@ -582,30 +582,12 @@ menu li a {
   letter-spacing: 0.2px;
   color: #000000; }
 
-.picture {
-  float: right; }
-
 .flex-container1 {
   display: flex; }
-
-.flex-item-left1 {
-  width: 100%;
-  margin-left: 20px; }
-
-.flex-item-right1 {
-  width: 100%;
-  padding-left: 150px; }
-
-.flex-container2 {
-  display: flex;
-  flex-direction: column; }
 
 .flex-container1 {
   display: flex;
   flex-direction: row; }
-
-.flex-item-left {
-  width: 50%; }
 
 .flex-container {
   display: flex; }
@@ -616,4 +598,16 @@ menu li a {
 
 .flex-item-right3 {
   width: 50%;
-  padding-top: 40px; }
+  padding-top: 40px;
+  padding-left: 57px; }
+
+.row {
+  display: flex;
+  flex-direction: row; }
+
+.column {
+  display: flex;
+  flex-direction: column; }
+
+.flex-item-left1 {
+  padding-left: 70px; }
