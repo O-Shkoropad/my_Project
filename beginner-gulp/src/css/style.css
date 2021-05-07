@@ -583,15 +583,37 @@ menu li a {
   color: #000000; }
 
 .picture {
-  padding-top: 150px;
   float: right; }
 
 .flex-container1 {
+  display: flex; }
+
+.flex-item-left1 {
+  width: 100%;
+  margin-left: 20px; }
+
+.flex-item-right1 {
+  width: 100%;
+  padding-left: 150px; }
+
+.flex-container2 {
   display: flex;
-  padding-top: 40px; }
+  flex-direction: column; }
+
+.flex-container1 {
+  display: flex;
+  flex-direction: row; }
 
 .flex-item-left {
   width: 50%; }
 
-.flex-item-right {
-  width: 50%; }
+.flex-container {
+  display: flex; }
+
+.flex-container3 {
+  float: right;
+  display: flex; }
+
+.flex-item-right3 {
+  width: 50%;
+  padding-top: 40px; }
