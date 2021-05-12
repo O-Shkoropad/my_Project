@@ -1,6 +1,8 @@
 body {
-  margin: 0;
-  width: 100%; }
+  margin: 0; }
+
+.container {
+  margin: 0; }
 
 /*section/* */
 .section--xs {
@@ -157,11 +159,8 @@ li a:hover {
   background-color: #FFFFFF; }
 
 .button_2 {
-  padding-top: 42px; }
-
-.buttonn:hover {
-  color: #FFB800;
-  text-decoration: none; }
+  padding-top: 42px;
+  float: left; }
 
 .buttonn:hover {
   color: #FFB800;
@@ -367,9 +366,6 @@ li a:hover {
   letter-spacing: 0.2px;
   color: #FFFFFF; }
 
-.flex-container {
-  display: inline-flex; }
-
 .footer {
   background-color: black; }
 
@@ -414,7 +410,8 @@ li a:hover {
   background-color: #FFB800; }
 
 .contacts {
-  padding-left: 300px; }
+  text-align: center;
+  padding-left: 220px; }
 
 .about_us {
   font-family: Gilroy;
@@ -451,7 +448,8 @@ li a:hover {
   font-size: 16px;
   line-height: 19px;
   letter-spacing: 0.07em;
-  color: #FFFFFF; }
+  color: #FFFFFF;
+  text-align: left; }
 
 .title_1 h3 {
   font-family: Gilroy;
@@ -560,13 +558,31 @@ li a:hover {
   letter-spacing: 0.2px;
   color: #000000; }
 
+.title {
+  padding-top: 150px;
+  padding-left: 40px;
+  width: 100%;
+  float: right; }
+
+.image {
+  width: 100%; }
+
+.section--kkk {
+  padding-top: 100px; }
+
+.hop {
+  display: block;
+  float: left; }
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px; }
+
 .row_1 {
   display: flex;
   flex-direction: row;
   width: 100%; }
 
-.title {
-  padding-top: 100px; }
-
-.title_4 {
-  padding-left: 50px; }
+.line {
+  display: inline-block; }
