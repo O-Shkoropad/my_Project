@@ -586,3 +586,38 @@ li a:hover {
 
 .line {
   display: inline-block; }
+
+.imag {
+  display: block; }
+
+.pop img {
+  position: relative;
+  z-index: 1; }
+
+.centered {
+  position: absolute;
+  padding-top: 540px;
+  z-index: 2;
+  display: block;
+  padding-left: 450px; }
+
+.ellipse {
+  color: white;
+  display: inline-block; }
+
+.ellipse p {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 139.4%;
+  letter-spacing: 0.2px;
+  color: #FFFFFF; }
+
+.ellipse h3 {
+  text-align: center;
+  color: white;
+  margin-top: -45px;
+  margin-left: 68px;
+  z-index: 3;
+  position: absolute; }
